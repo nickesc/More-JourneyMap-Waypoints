@@ -23,9 +23,15 @@ Set the waypoint color to white in order to use colorful icons without tinting t
 
 ### Icons
 
+#### Full Icon Set
+
 <img src="img/icons.png" alt="Icons" width="400">
 
-### Installation
+#### Icons In-Use
+
+![Example](img/example.png)
+
+#### Instructions
 
 1. Download the latest release from the [releases page](https://github.com/nickesc/More-JourneyMap-Waypoints/releases) or [Modrinth](https://modrinth.com/project/more-journeymap-waypoints).
 2. Place the zip file in your Minecraft instance's `resourcepacks` folder.
