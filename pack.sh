@@ -28,7 +28,7 @@ output_path="release/More JourneyMap Waypoints v${version}.zip"
 
 # Compress pack.meta, pack.png, and assets/ into ${output_path}
 mkdir -p release
-zip -r ${output_path} pack.mcmeta pack.png assets/
+zip -r ${output_path} LICENSE pack.mcmeta pack.png assets/
 
 # Verify the zip file was created
 if [ ! -f ${output_path} ]; then
