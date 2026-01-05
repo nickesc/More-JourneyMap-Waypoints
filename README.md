@@ -29,7 +29,7 @@ Set the waypoint color to white in order to use colorful icons without tinting t
 
 #### Icons In-Use
 
-![Example](img/example.png)
+![Icons In-Use](img/example.png)
 
 #### Instructions
 
