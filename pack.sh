@@ -24,7 +24,7 @@ if [ ! -f version.txt ]; then
     exit 1
 fi
 version=$(cat version.txt)
-output_path="release/More JourneyMap Icons v${version}.zip"
+output_path="release/More JourneyMap Waypoints v${version}.zip"
 
 # Compress pack.meta, pack.png, and assets/ into ${output_path}
 mkdir -p release
