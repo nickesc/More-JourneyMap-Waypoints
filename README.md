@@ -23,7 +23,7 @@ Set the waypoint color to white in order to use colorful icons without tinting t
 
 ### Icons
 
-<img src="icons.png" alt="Icons" width="400">
+<img src="img/icons.png" alt="Icons" width="400">
 
 ### Installation
 
