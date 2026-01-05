@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 46,
-		"description": "Additional icons to use as JourneyMap waypoints (also replaces default icons). Set waypoint color to white for colorful icons."
-	}
+    "pack": {
+        "pack_format": 46,
+        "description": "Additional icons to use as JourneyMap waypoints (also replaces default icons). Set waypoint color to white for colorful icons."
+    }
 }
