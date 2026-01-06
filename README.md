@@ -13,6 +13,8 @@
 
 ---
 
+![Example](img/example.png)
+
 ### Overview
 
 *More JourneyMap Icons* is an addon resource pack for [JourneyMap](https://modrinth.com/mod/journeymap) that contains additional icons to use as waypoints, while also replacing the default icons to keep the style and resolution consistent.
@@ -23,15 +25,11 @@ Set the waypoint color to white in order to use colorful icons without tinting t
 
 ### Icons
 
-#### Full Icon Set
+The following icons are available for use in the pack:
 
 <img src="img/icons.png" alt="Icons" width="400">
 
-#### Icons In-Use
-
-![Example](img/example.png)
-
-#### Instructions
+### Installation
 
 1. Download the latest release from the [releases page](https://github.com/nickesc/More-JourneyMap-Waypoints/releases) or [Modrinth](https://modrinth.com/project/more-journeymap-waypoints).
 2. Place the zip file in your Minecraft instance's `resourcepacks` folder.
@@ -39,4 +37,4 @@ Set the waypoint color to white in order to use colorful icons without tinting t
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
