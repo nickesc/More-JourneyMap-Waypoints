@@ -17,7 +17,7 @@
 
 ### Overview
 
-*More JourneyMap Icons* is an addon resource pack for [JourneyMap](https://modrinth.com/mod/journeymap) that contains additional icons to use as waypoints, while also replacing the default icons to keep the style and resolution consistent.
+*More JourneyMap Waypoints* is an addon resource pack for [JourneyMap](https://modrinth.com/mod/journeymap) that contains additional icons to use as waypoints, while also replacing the default icons to keep the style and resolution consistent.
 
 This pack uses Vanilla map icons as a base, but with some additional icons added and some modifications made to the existing icons.
 
