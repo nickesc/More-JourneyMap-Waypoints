@@ -31,10 +31,6 @@ The following icons are available for use in the pack:
 
 ### Installation
 
-![Icons In-Use](img/example.png)
-
-#### Instructions
-
 1. Download the latest release from the [releases page](https://github.com/nickesc/More-JourneyMap-Waypoints/releases) or [Modrinth](https://modrinth.com/project/more-journeymap-waypoints).
 2. Place the zip file in your Minecraft instance's `resourcepacks` folder.
 3. If the game is already running, restart it to update waypoints to use the new icons.
